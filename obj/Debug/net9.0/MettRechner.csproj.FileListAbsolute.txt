@@ -76,3 +76,4 @@
 /MettRechner/obj/Debug/net9.0/MettRechner.pdb
 /MettRechner/obj/Debug/net9.0/MettRechner.genruntimeconfig.cache
 /MettRechner/obj/Debug/net9.0/ref/MettRechner.dll
+/MettRechner/obj/Debug/net9.0/MettRechner.sourcelink.json

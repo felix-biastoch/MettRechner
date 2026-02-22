@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MettRechner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbe03322c31dd34953bec18d6df0eb83516e12f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("MettRechner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MettRechner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
